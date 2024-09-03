@@ -11,7 +11,7 @@ I'm a **Full Stack Developer** and **Product Manager** with a strong background 
 
 ## How to Reach Me
 - 📫 You can reach me via email at **kstehberg@gmail.com**.
-- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/katherinestehberg) to see my professional journey.
+- 💼 Connect with me on [LinkedIn]Follow me on LinkedIn: www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=katherinestehberg) to see my professional journey.
 
 ## Fun Fact
 - ⚡ You can Google me and find some **books** I have published!
