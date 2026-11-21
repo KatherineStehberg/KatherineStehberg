@@ -9,14 +9,16 @@ I build web applications and automation systems that connect user interfaces, ba
 
 | Project | Engineering focus | Technologies |
 | --- | --- | --- |
-| [ALEPH Tender Monitor](https://github.com/KatherineStehberg/ALEPH-TENDER-MONITOR) | Public procurement monitoring, data pipelines, AI-assisted classification, alerts, dashboard | Python, Flask, APScheduler, Supabase/PostgreSQL, Claude API |
-| [AI Video Maker](https://github.com/KatherineStehberg/Ai_video_maker) | Browser-based video workflow, analysis, editing and MP4 export; external AI integrations at varying validation stages | JavaScript, Node.js, FFmpeg, APIs |
+| [ALEPH Tender Monitor](https://github.com/KatherineStehberg/ALEPH-TENDER-MONITOR) 🔒 | Public procurement monitoring, data pipelines, AI-assisted classification, alerts, REST API and dashboard; 70 pytest tests | Python, Flask, APScheduler, Supabase/PostgreSQL, Claude API, Docker |
+| [AI Video Maker](https://github.com/KatherineStehberg/Ai_video_maker) | Browser-based video workflow, analysis, editing and MP4 export; external AI integrations at varying validation stages; 80 automated tests | JavaScript, Node.js, FFmpeg, APIs |
 | [Biodiversidad.cl — Editorial Blog](https://biodiversidad.cl) | Environmental content publishing, editorial workflows, digital product and site operations | WordPress, content platform, SEO |
-| [Biodiversidad Portal — Web Application](https://ensayo.portal.biodiversidad.cl) | Separate Full Stack portal with authentication, data services and API integration; **staging environment / work in progress** | Next.js, React, Supabase |
+| [Biodiversidad Portal — Web Application](https://ensayo.portal.biodiversidad.cl) · [source](https://github.com/KatherineStehberg/Biodiversidad-de-Chile) | Separate Full Stack portal with authentication, data services and API integration; **staging environment / work in progress** | Next.js, React, Supabase; Playwright, Cypress, Cucumber in CI |
+| [Linkapps](https://github.com/KatherineStehberg/linkapp-astro-main-test) · [linkapps.me](https://linkapps.me) | Link-collection manager with SSR authentication, dashboard, public collection views and Cypress e2e tests | Astro, React, Tailwind CSS, Supabase |
+| [QuartzMat storefront](https://github.com/KatherineStehberg/QuartzMat_Code_Rebuild) | E-commerce storefront rebuild: product catalog, cart drawer, payment-ready configuration | React, Vite |
 | **Asesorías Express — Benoit & Asociados** ([case-study portfolio](https://gamma.app/docs/8mi90kyf362xa7f)) | Separate client consulting/web experience: website improvements, UX, SEO, digital outreach and site maintenance; direct project URL pending verification | WordPress, UX/UI, SEO, web systems |
 | [Full Stack & UX/UI portfolio](https://gamma.app/docs/8mi90kyf362xa7f) | Selected applications, integrations, consulting engagements and interface design | Project case studies |
 
-> Project documentation distinguishes implemented functionality, prototypes, tests and work in progress. The Biodiversidad editorial blog and independent portal are separate projects. The Benoit consulting engagement is a third, distinct client project. Some client and internal projects cannot be shared as public source code.
+> Project documentation distinguishes implemented functionality, prototypes, tests and work in progress. The Biodiversidad editorial blog and independent portal are separate projects. The Benoit consulting engagement is a third, distinct client project. Some client and internal projects cannot be shared as public source code. 🔒 Private repository — source code available to recruiters on request.
 
 ## Technical capabilities
 
