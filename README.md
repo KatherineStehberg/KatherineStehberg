@@ -21,6 +21,17 @@ I build web applications and automation systems that connect user interfaces, ba
 
 > Project documentation distinguishes implemented functionality, prototypes, tests and work in progress. The Biodiversidad editorial blog, independent Full Stack portal, and Diagnóstico Ambiental Express landing page are three distinct projects. Benoit & Asociados is a separate client engagement. Some client and internal projects cannot be shared as public source code. 🔒 Private repository — source code available to recruiters on request.
 
+## Client delivery & Full Stack integrations
+
+In addition to the applications above, I have managed delivery and contributed hands-on technical work to client projects:
+
+| Client project | Role and contribution |
+| --- | --- |
+| **BGI Propiedades** | **Project Manager & Full Stack Integration** — coordinated and reviewed the delivery team's work, completed technical integrations and implemented automation to finalize the solution. |
+| **Eduperto** | **Project Manager & Full Stack Integration** — supervised implementation, reviewed the team's output, completed integrations and automation workflows through project delivery. |
+
+These engagements combine technical project leadership with hands-on implementation. Specific frameworks and public demos are not listed until verified.
+
 ## Technical capabilities
 
 - **Languages & web:** Python, JavaScript, HTML, CSS; TypeScript in Next.js-based work
