@@ -15,10 +15,11 @@ I build web applications and automation systems that connect user interfaces, ba
 | [Biodiversidad Portal — Web Application](https://ensayo.portal.biodiversidad.cl) · [source](https://github.com/KatherineStehberg/Biodiversidad-de-Chile) | Separate Full Stack portal with authentication, data services and API integration; **staging environment / work in progress** | Next.js, React, Supabase; Playwright, Cypress, Cucumber in CI |
 | [Linkapps](https://github.com/KatherineStehberg/linkapp-astro-main-test) · [linkapps.me](https://linkapps.me) | Link-collection manager with SSR authentication, dashboard, public collection views and Cypress e2e tests | Astro, React, Tailwind CSS, Supabase |
 | [QuartzMat storefront](https://github.com/KatherineStehberg/QuartzMat_Code_Rebuild) | E-commerce storefront rebuild: product catalog, cart drawer, payment-ready configuration | React, Vite |
-| **Asesorías Express — Benoit & Asociados** ([case-study portfolio](https://gamma.app/docs/8mi90kyf362xa7f)) | Separate client consulting/web experience: website improvements, UX, SEO, digital outreach and site maintenance; direct project URL pending verification | WordPress, UX/UI, SEO, web systems |
+| [Diagnóstico Ambiental Express](https://consultores.biodiversidad.cl/landing) | Dedicated environmental consulting landing page and service experience, distinct from the editorial blog and Full Stack portal | Web experience, UX/UI, service presentation |
+| **Benoit & Asociados — Web Consulting** ([portfolio](https://gamma.app/docs/8mi90kyf362xa7f)) | Separate client web consulting engagement; direct public URL not yet confirmed | WordPress, UX/UI, SEO |
 | [Full Stack & UX/UI portfolio](https://gamma.app/docs/8mi90kyf362xa7f) | Selected applications, integrations, consulting engagements and interface design | Project case studies |
 
-> Project documentation distinguishes implemented functionality, prototypes, tests and work in progress. The Biodiversidad editorial blog and independent portal are separate projects. The Benoit consulting engagement is a third, distinct client project. Some client and internal projects cannot be shared as public source code. 🔒 Private repository — source code available to recruiters on request.
+> Project documentation distinguishes implemented functionality, prototypes, tests and work in progress. The Biodiversidad editorial blog, independent Full Stack portal, and Diagnóstico Ambiental Express landing page are three distinct projects. Benoit & Asociados is a separate client engagement. Some client and internal projects cannot be shared as public source code. 🔒 Private repository — source code available to recruiters on request.
 
 ## Technical capabilities
 
